@@ -1,0 +1,44 @@
+D:\amish\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.exe
+D:\amish\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.pdb
+D:\amish\Projects\Android\On Demand PC\User\User\bin\Debug\PCBC.exe
+D:\amish\Projects\Android\On Demand PC\User\User\bin\Debug\PCBC.pdb
+D:\amish\Projects\Android\On Demand PC\User\User\bin\Debug\Emgu.CV.xml
+D:\amish\Projects\Android\On Demand PC\User\User\bin\Debug\Emgu.CV.UI.xml
+D:\amish\Projects\Android\On Demand PC\User\User\bin\Debug\Emgu.Util.xml
+D:\amish\Projects\Android\On Demand PC\User\User\obj\x86\Debug\User.csprojResolveAssemblyReference.cache
+D:\amish\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.Chat.resources
+D:\amish\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.Form1.resources
+D:\amish\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.Id.resources
+D:\amish\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.Properties.Resources.resources
+D:\amish\Projects\Android\On Demand PC\User\User\obj\x86\Debug\User.csproj.GenerateResource.Cache
+D:\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.exe
+D:\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.pdb
+D:\Projects\Android\On Demand PC\User\User\bin\Debug\PCBC.exe
+D:\Projects\Android\On Demand PC\User\User\bin\Debug\PCBC.pdb
+D:\Projects\Android\On Demand PC\User\User\bin\Debug\Emgu.CV.xml
+D:\Projects\Android\On Demand PC\User\User\bin\Debug\Emgu.CV.UI.xml
+D:\Projects\Android\On Demand PC\User\User\bin\Debug\Emgu.Util.xml
+D:\Projects\Android\On Demand PC\User\User\obj\x86\Debug\User.csprojResolveAssemblyReference.cache
+D:\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.Chat.resources
+D:\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.Form1.resources
+D:\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.Id.resources
+D:\Projects\Android\On Demand PC\User\User\obj\x86\Debug\PCBC.Properties.Resources.resources
+D:\Projects\Android\On Demand PC\User\User\obj\x86\Debug\User.csproj.GenerateResource.Cache
+D:\Checked Projects\Checked 2016 - 2017\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\PCBC.exe
+D:\Checked Projects\Checked 2016 - 2017\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\PCBC.pdb
+F:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\PCBC.exe
+F:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\PCBC.pdb
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\bin\Debug\PCBC.exe.config
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\PCBC.exe
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\PCBC.pdb
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\bin\Debug\PCBC.exe
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\bin\Debug\PCBC.pdb
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\PCBC.Chat.resources
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\PCBC.Form1.resources
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\PCBC.Id.resources
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\PCBC.Properties.Resources.resources
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\User.csproj.GenerateResource.Cache
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\bin\Debug\Database2.mdf
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\bin\Debug\Database2_log.ldf
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\bin\Debug\DirectShowLib-2005.dll
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Debug\User.csprojResolveAssemblyReference.cache

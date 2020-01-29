@@ -1,0 +1,49 @@
+D:\amish\Projects\PC Boss\PCBC\PCBC\obj\x86\Debug\PCBC.Form1.resources
+D:\amish\Projects\PC Boss\PCBC\PCBC\obj\x86\Debug\PCBC.Properties.Resources.resources
+D:\amish\Projects\PC Boss\PCBC\PCBC\bin\Debug\PCBC.exe
+D:\amish\Projects\PC Boss\PCBC\PCBC\bin\Debug\PCBC.pdb
+D:\amish\Projects\PC Boss\PCBC\PCBC\obj\x86\Debug\PCBC.Id.resources
+D:\amish\Projects\PC Boss\PCBC\PCBC\obj\x86\Debug\PCBC.exe
+D:\amish\Projects\PC Boss\PCBC\PCBC\obj\x86\Debug\PCBC.pdb
+D:\amish\Projects\PC Boss\PCBC\PCBC\obj\x86\Debug\PCBC.Chat.resources
+D:\amish\Projects\PC Boss\PCBC\PCBC\bin\Debug\Emgu.CV.dll
+D:\amish\Projects\PC Boss\PCBC\PCBC\bin\Debug\Emgu.CV.GPU.dll
+D:\amish\Projects\PC Boss\PCBC\PCBC\bin\Debug\Emgu.CV.ML.dll
+D:\amish\Projects\PC Boss\PCBC\PCBC\bin\Debug\Emgu.CV.UI.dll
+D:\amish\Projects\PC Boss\PCBC\PCBC\bin\Debug\Emgu.Util.dll
+D:\amish\Projects\PC Boss\PCBC\PCBC\bin\Debug\Emgu.CV.xml
+D:\amish\Projects\PC Boss\PCBC\PCBC\bin\Debug\Emgu.CV.UI.xml
+D:\amish\Projects\PC Boss\PCBC\PCBC\bin\Debug\Emgu.Util.xml
+D:\amish\Projects\PC Boss\PCBC\PCBC\obj\x86\Debug\PCBC.csprojResolveAssemblyReference.cache
+D:\amish\Projects\PC Boss\PCBC\PCBC\obj\x86\Debug\PCBC.csproj.GenerateResource.Cache
+D:\amish\Projects\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.exe
+D:\amish\Projects\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.pdb
+D:\amish\Projects\On Demand PC\PCBC\PCBC\bin\Debug\PCBC.exe
+D:\amish\Projects\On Demand PC\PCBC\PCBC\bin\Debug\PCBC.pdb
+D:\amish\Projects\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.CV.dll
+D:\amish\Projects\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.CV.GPU.dll
+D:\amish\Projects\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.CV.ML.dll
+D:\amish\Projects\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.CV.UI.dll
+D:\amish\Projects\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.Util.dll
+D:\amish\Projects\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.CV.xml
+D:\amish\Projects\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.CV.UI.xml
+D:\amish\Projects\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.Util.xml
+D:\amish\Projects\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.Chat.resources
+D:\amish\Projects\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.Form1.resources
+D:\amish\Projects\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.Id.resources
+D:\amish\Projects\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.Properties.Resources.resources
+D:\amish\Projects\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.csproj.GenerateResource.Cache
+D:\amish\Projects\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.csprojResolveAssemblyReference.cache
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.exe
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.pdb
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\bin\Debug\PCBC.exe
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\bin\Debug\PCBC.pdb
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.CV.xml
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.CV.UI.xml
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\bin\Debug\Emgu.Util.xml
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.csprojResolveAssemblyReference.cache
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.Chat.resources
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.Form1.resources
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.Id.resources
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.Properties.Resources.resources
+D:\amish\Projects\Android\On Demand PC\PCBC\PCBC\obj\x86\Debug\PCBC.csproj.GenerateResource.Cache

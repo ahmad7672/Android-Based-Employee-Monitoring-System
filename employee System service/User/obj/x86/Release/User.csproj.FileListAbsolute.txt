@@ -1,0 +1,6 @@
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\bin\Release\PCBC.exe.config
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Release\PCBC.Chat.resources
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Release\PCBC.Form1.resources
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Release\PCBC.Id.resources
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Release\PCBC.Properties.Resources.resources
+E:\P\PC control Using Android Over Internet (Ahmad  Waris)\User\User\obj\x86\Release\User.csproj.GenerateResource.Cache
